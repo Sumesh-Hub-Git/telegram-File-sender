@@ -30,7 +30,7 @@ Telegram Bot API upload size limits still apply (currently up to 50 MB for docum
 3. Start the app:
 
    ```powershell
-   py telegram_image_sender.py
+   py telegram_file_sender.py
    ```
 
 4. Enter the bot token and chat ID, select or drop files, and press **Start**.
